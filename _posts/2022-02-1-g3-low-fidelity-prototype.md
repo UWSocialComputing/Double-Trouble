@@ -20,12 +20,12 @@ Figure 1: Citations as a Credibility Signal - Grey
 Figure one shows our first prototype of what credibility signals could look like once inserted into the search results. In this prototype, the design is unobtrusive and meant to integrate seamlessly into the current YouTube UI.
 
 Figure 2: Citations as a Credibility Signals - Colored
-![Figure 2: Citations as a Credibility Signals - Colored](/images/figg32.JPG)
+![Figure 2: Citations as a Credibility Signals - Colored](/Double-Trouble/images/figg32.JPG)
 
 Figure 2 shows the same credibility signal as the first figure, however in this mock-up we experimented with the addition of color. This makes the signals appear more noticeable and as a stronger signal on the page. We developed this as an opposite to the first example to gain more insight on the design direction of the credibility signals.
 
 Figure 3: Source description as Credibility Signals
-![Figure 3: Source description as Credibility Signals](/images/figg33.JPG)
+![Figure 3: Source description as Credibility Signals](/Double-Trouble/images/figg33.JPG)
 
 Figure 3 shows how additional external information could be shown about the channel who is posting the video. In the examples above, information is pulled from Wikipedia as well as the information section of some of their websites. While this is informative, this may be hard to implement in the timeframe available. We still wanted to get feedback on this possibility in case we are able to implement it.
 
