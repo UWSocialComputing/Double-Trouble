@@ -15,7 +15,7 @@ In order to display information from the videos, we will need to be able to pull
 B - Prototype Examples
 Figure 1: Citations as a Credibility Signal - Grey
 
-![Figure 1: Citations as a Credibility Signal - Grey](/images/figg31.JPG)
+![Figure 1: Citations as a Credibility Signal - Grey](/Double-Trouble/images/figg31.JPG)
 
 Figure one shows our first prototype of what credibility signals could look like once inserted into the search results. In this prototype, the design is unobtrusive and meant to integrate seamlessly into the current YouTube UI.
 
