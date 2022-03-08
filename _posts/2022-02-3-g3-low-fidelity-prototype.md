@@ -1,8 +1,8 @@
 ## G3 Low-Fidelity Prototype
 
-# Blog Post:
+## Blog Post:
 
-### A - What Is Our Prototype
+# A - What Is Our Prototype
 
 For our low-fidelity prototype we created a few mock-ups of possible variations of our solution. We used a static image of a YouTube search-results page as a base layer to test multiple small-scale prototypes. Implementing the mock-ups in this manner allowed us to test a variety of different configurations and placements of credibility signals on the UI.
 Right now, the ‘wizardry’ comes in the form of the integration of the credibility signals with the YouTube interface. Although our mock-up is not currently an interactive prototype, the elements we have added integrate into the current interface to create an illusion of what the final product might look like. From here, we can integrate feedback to update the appearance and implementation of our solution.

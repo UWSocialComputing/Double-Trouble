@@ -1,6 +1,6 @@
 ## G1 User Research
 
-# Blog Post:
+## Blog Post:
 
 Our project is focused on combating the spread of misinformation on YouTube. Branching from a broader project, this project will specifically focus on the addition of credibility signals to YouTube’s search results pages. The goal behind this is to increase user agency in determining the reputability of a video. 
 
